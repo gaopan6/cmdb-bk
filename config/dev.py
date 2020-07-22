@@ -29,7 +29,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'gp-test',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': '0N9LZr3ksu',
         'HOST': '192.168.65.129',
         'PORT': '3306',
     },
