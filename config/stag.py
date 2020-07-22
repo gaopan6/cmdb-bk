@@ -25,7 +25,7 @@ DATABASES.update(
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'gp-test',  # 数据库名
             'USER': 'root',  # 数据库用户
-            'PASSWORD': '',  # 数据库密码
+            'PASSWORD': '123456',  # 数据库密码
             'HOST': '192.168.65.129',  # 数据库主机
             'PORT': '3306',  # 数据库端口
         },
